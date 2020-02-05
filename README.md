@@ -1,4 +1,4 @@
-# script_generation
+# Seinfeld script generation
 Recurrent Neural Network based on LSTMs trained with scripts from the Seinfeld tv show. When trained, it generates new scripts from a given initial word.
 
 ## Dependencies
